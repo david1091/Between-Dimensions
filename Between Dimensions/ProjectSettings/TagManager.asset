@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Pared
+  - Objetos
+  - Weapon
+  - Mapa
+  - Enemy
+  - Area
+  - Warp
+  - Potion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Raycast
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Trasero
+    uniqueID: 3006008899
+    locked: 0
+  - name: Player
+    uniqueID: 3176706785
+    locked: 0
+  - name: Enemy
+    uniqueID: 745421999
+    locked: 0
+  - name: Frontal
+    uniqueID: 908352245
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
